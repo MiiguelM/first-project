@@ -9,8 +9,8 @@ This repository contains simple C programs created to practice basic programming
 
 ## 🗂 Project Structure
 
-* `soma/` → sum program
-* `par-ou-impar/` → even or odd checker
+* `sum/` → sum program
+* `even-or-odd/` → even or odd checker
 
 ## 🚀 Technologies
 
@@ -19,11 +19,11 @@ This repository contains simple C programs created to practice basic programming
 ## ▶️ How to Run
 ### Compile
 
-gcc soma.c -o soma
+gcc sum.c -o sum
 ```
 
 Execute:
-./soma
+./sum
 ``
 
 ## 📚 Purpose
