@@ -1,23 +1,33 @@
-#starting in programming
-
 # First Project
 
-Projeto simples em C para praticar lógica de programação.
+This repository contains simple C programs created to practice basic programming logic.
 
-## 📌 Funcionalidades
-- Soma de números
-- Verificação de número par ou ímpar
+## 📌 Features
 
-## 🗂 Estrutura
-- `soma/` → programa de soma
-- `par-ou-impar/` → verificação de par ou ímpar
+* Sum calculation program
+* Even or odd number checker
 
-## 🚀 Tecnologias
-- Linguagem C
+## 🗂 Project Structure
 
-## ▶️ Como executar
-Compile:
+* `soma/` → sum program
+* `par-ou-impar/` → even or odd checker
+
+## 🚀 Technologies
+
+* C programming language
+
+## ▶️ How to Run
+### Compile
+
 gcc soma.c -o soma
+```
 
 Execute:
 ./soma
+``
+
+## 📚 Purpose
+
+This project was created as part of my learning journey in programming and Git/GitHub.
+
+---
